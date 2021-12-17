@@ -31,6 +31,11 @@ professionals to build software programs and effectively track changes.
 ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/-Ionic%20Boot-3880FF?logo=ionic&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=plastic)
+
+![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-Microsoft%20SQL-CC2927?logo=microsoft-sql&logoColor=white&style=plastic)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supun00SL&langs_count=8&theme=radical)](https://github.com/Supun00SL/github-readme-stats)
