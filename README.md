@@ -33,7 +33,7 @@ professionals to build software programs and effectively track changes.
 ![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=plastic)
 
-![](https://img.shields.io/badge/-Node.js-339933?logo=node-js&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic)
 
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
