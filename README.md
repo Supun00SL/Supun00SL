@@ -25,5 +25,12 @@ professionals to build software programs and effectively track changes.
 ![](https://img.shields.io/badge/-ReactSaga-999999?logo=redux-saga&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-Ionic%20Boot-3880FF?logo=ionic&logoColor=white&style=plastic)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supun00SL&langs_count=8&theme=radical)](https://github.com/Supun00SL/github-readme-stats)
