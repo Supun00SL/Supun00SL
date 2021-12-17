@@ -19,14 +19,14 @@ professionals to build software programs and effectively track changes.
 
 [![Supun00SL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supun00SL&count_private=true&show_icons=true&theme=radical)](https://github.com/Supun00SL/github-readme-stats)
 
-### FRONT END
+### Front End
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-ReactSaga-999999?logo=redux-saga&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=plastic)
 
-### BACK END
+### Back End
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=plastic)
@@ -36,23 +36,23 @@ professionals to build software programs and effectively track changes.
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic)
 
-### MOBILE
+### Mobile
 ![](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=plastic)
 
-### DATABSES
+### Databases
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Microsoft%20SQL-CC2927?logo=microsoft-sql&logoColor=white&style=plastic)
 
-### IN MEMORY DATABSES
+### In Memory Databases
 ![](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=plastic)
 
-### MESSAGE QUEUES
+### Message Queues
 ![](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=plastic)
 
-### SERVERS
+### Servers
 ![](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=plastic)
 
