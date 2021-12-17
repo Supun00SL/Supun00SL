@@ -2,6 +2,12 @@
 
 ### Hey guys . . . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<p>
+	I am a experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed 
+in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of 
+professionals to build software programs and effectively track changes.
+</p>
+
 <a href="https://twitter.com/Supun00SL">
   <img align="left" alt="Supun00SL's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
