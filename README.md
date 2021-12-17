@@ -21,7 +21,8 @@ professionals to build software programs and effectively track changes.
 
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/-React-Saga-61DAFB?logo=redux-saga&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-ReactSaga-999999?logo=redux-saga&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supun00SL&langs_count=8&theme=radical)](https://github.com/Supun00SL/github-readme-stats)
