@@ -2,6 +2,8 @@
 
 ### Hey guys . . . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+
 <p>
 	I am a experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed 
 in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of 
@@ -18,5 +20,13 @@ professionals to build software programs and effectively track changes.
 ![](https://komarev.com/ghpvc/?username=Supun00SL&color=red)
 
 [![Supun00SL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supun00SL&count_private=true&show_icons=true&theme=radical)](https://github.com/Supun00SL/github-readme-stats)
+
+
+<i class="programming lang-ruby"></i>
+<i class="programming lang-javascript"></i>
+<i class="programming lang-cpp"></i>
+<i class="programming lang-typescript"></i>
+<i class="programming lang-python"></i>
+<i class="programming lang-kotlyn"></i>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supun00SL&langs_count=8&theme=radical)](https://github.com/Supun00SL/github-readme-stats)
