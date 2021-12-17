@@ -1,6 +1,4 @@
-# Supun00SL
-
-### Hey guys . . . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, i'm Supun00SL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
@@ -21,12 +19,10 @@ professionals to build software programs and effectively track changes.
 
 [![Supun00SL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supun00SL&count_private=true&show_icons=true&theme=radical)](https://github.com/Supun00SL/github-readme-stats)
 
+<a href="https://twitter.com/Supun00SL">
+  <img align="left" alt="Supun00SL's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
-<i class="programming lang-ruby"></i>
-<i class="programming lang-javascript"></i>
-<i class="programming lang-cpp"></i>
-<i class="programming lang-typescript"></i>
-<i class="programming lang-python"></i>
-<i class="programming lang-kotlyn"></i>
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supun00SL&langs_count=8&theme=radical)](https://github.com/Supun00SL/github-readme-stats)
