@@ -44,7 +44,7 @@ professionals to build software programs and effectively track changes.
 ### Databases
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/-Microsoft%20SQL-CC2927?logo=microsoft-sql&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-Microsoft%20SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=plastic)
 
 ### In Memory Databases
 ![](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=plastic)
