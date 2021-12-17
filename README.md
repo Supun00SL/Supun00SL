@@ -33,9 +33,18 @@ professionals to build software programs and effectively track changes.
 ![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=plastic)
 
+![](https://img.shields.io/badge/-Node.js-339933?logo=node-js&logoColor=white&style=plastic)
+
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Microsoft%20SQL-CC2927?logo=microsoft-sql&logoColor=white&style=plastic)
+
+![](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=plastic)
+
+![](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=plastic)
+
+![](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-AWS-232F3E?logo=aws&logoColor=white&style=plastic)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supun00SL&langs_count=8&theme=radical)](https://github.com/Supun00SL/github-readme-stats)
