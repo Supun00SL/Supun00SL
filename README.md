@@ -57,5 +57,3 @@ professionals to build software programs and effectively track changes.
 ![](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=plastic)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supun00SL&theme=radical&langs_count=8)](https://github.com/Supun00SL/github-readme-stats)
-
