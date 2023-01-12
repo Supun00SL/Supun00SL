@@ -20,8 +20,6 @@ professionals to build software programs and effectively track changes.
 
 ![](https://komarev.com/ghpvc/?username=Supun00SL&color=red)
 
-[![Supun00SL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supun00SL&count_private=true&show_icons=true&theme=radical)](https://github.com/Supun00SL/github-readme-stats)
-
 ### Front End
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=plastic)
