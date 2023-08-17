@@ -8,12 +8,7 @@ in technology and writing code to create systems that are reliable and user-frie
 professionals to build software programs and effectively track changes.
 </p>
 
-<a href="https://twitter.com/Supun00SL">
-  <img align="left" alt="Supun00SL's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/supun00sl/">
-  <img align="left" alt="Supun00SL's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <a href="https://stackoverflow.com/users/7718914/supun-madushanka">
   <img align="left" alt="Supun00SL's StackOverflow" width="22px" src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667" />
 </a>
